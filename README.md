@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on multiple godot projects and freelancing
-- 🌱 I’m currently learning Software Enigineering
+- 🌱 I’m currently learning Software Engineering
 - 💬 Ask me about Java
 - 📫 How to reach me: gcmarsh18@gmail.com
 - 😄 Pronouns: he/him
