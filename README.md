@@ -13,6 +13,6 @@
 <div align="center">
   <h1>:fire:My Stats</h1>
   <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=gmarsh-coding&amp;theme=dark&amp;background=000000" alt="GitHub Streak"></a></p>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarsh-coding&theme=vision-friendly-dark" alt="Top Langs"></a></p>
+<!--   <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmarsh-coding&theme=vision-friendly-dark" alt="Top Langs"></a></p> -->
 </div>
 <hr>
